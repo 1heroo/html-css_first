@@ -1,0 +1,137 @@
+body{
+	background-color: #f0f0f0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.all{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 50%;
+	height: 510px;
+	border: 1px solid #c9c9c9;
+	margin-top: 80px;
+	background: linear-gradient(to top left, powderblue, pink);
+	border-radius: 4%;
+}
+.hel{
+	position: absolute;
+	margin-top: 45px;
+	justify-content: center;
+	align-items: center;
+	font-size: 25px;
+	margin-left: 100px;
+}
+#login{
+	border: none;
+	outline: none;
+	background: #faffe8;
+	padding: 2px;
+	color: #3b3b3b;
+	line-height: 28px;
+	font-size: 13px;
+	border-radius: 5%;
+	width: 300px;
+	margin-top: 120px;
+	margin-left: 40px;
+}
+
+
+.pad{
+
+}
+.mail{
+	border: none;
+	outline: none;
+	background: #faffe8;
+	padding: 2px;
+	color: #3b3b3b;
+	line-height: 28px;
+	font-size: 13px;
+	border-radius: 5%;
+	width: 300px;
+	margin-left: 40px;
+	margin-top: 15px;
+}
+
+.password{
+	border: none;
+	outline: none;
+	background: #faffe8;
+	padding: 2px;
+	color: #3b3b3b;
+	line-height: 28px;
+	font-size: 13px;
+	border-radius: 5%;
+	width: 300px;
+	margin-left: 40px;
+	margin-top: 15px;
+}
+
+.repas{
+	border: none;
+	outline: none;
+	background: #faffe8;
+	padding: 2px;
+	color: #3b3b3b;
+	line-height: 28px;
+	font-size: 13px;
+	border-radius: 5%;
+	width: 300px;
+	margin-left: 40px;
+	margin-top: 15px;
+}
+
+.age{
+	border: none;
+	outline: none;
+	background: #faffe8;
+	padding: 2px;
+	color: #3b3b3b;
+	line-height: 28px;
+	font-size: 13px;
+	border-radius: 5%;
+	width: 300px;
+	margin-left: 40px;
+	margin-top: 15px;
+}
+
+.name{
+	border: none;
+	outline: none;
+	background: #faffe8;
+	padding: 2px;
+	color: #3b3b3b;
+	line-height: 28px;
+	font-size: 13px;
+	border-radius: 5%;
+	width: 300px;
+	margin-left: 40px;
+	margin-top: 15px;
+}
+
+.go{
+	display: flex;
+	width: 240px;
+	height: 36px;
+	border-radius: 5%;
+	margin-top: 30px;
+	border: 1px solid #5c5c5c;
+	font-size: 20px;
+	justify-content: center;
+	align-items: center;
+	background-color: #7528a6;
+	color: #dbdbdb;
+	float: left;
+	margin-bottom: 17px;
+	margin-left: 71px;
+}
+
+
+
+
+.go:hover{
+	background-color: #45296b;
+}

@@ -1,0 +1,33 @@
+.genre_block {
+	color: #292929;
+	background-color: #a2baf2;
+	border: 1px solid #9b9fab;
+	font-size: 20px;
+	margin-left: 10px;
+	margin-right:10px;
+	margin-bottom: 12px;
+	padding-left: 11px;
+	padding-top: 4px;
+	width: 89%;
+	float: left;
+	min-height: 30px;
+	font-family: Didot, serif;
+}
+
+.sidebar{
+	background-color: #f0fcf9;
+	border: 1px solid #c9c9c9;
+	margin-right: 5px;
+	padding: 5px;
+	width: 21%;
+	float: left;
+	min-height: 820px;
+	margin-top: -10px;
+}
+
+.genre_block:hover {
+	border: 1px solid #52c7a4;
+	background-color: #978b89;
+	border-radius: 6%;
+	color: #ebebeb;
+	transition: all 0.3s ease;

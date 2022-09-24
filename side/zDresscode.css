@@ -1,0 +1,104 @@
+body{
+	background-color: #f0f0f0;
+}
+
+.whole:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+
+}
+
+.whole {
+	display: inline-block; 
+}
+*html .whole{
+	height: 1%; 
+}
+.whole {
+	display: block; 
+}
+.shapka{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 1280px;
+	margin-left: 35px;
+	border-bottom: 1px solid #c9c9c9;
+}
+
+.infa{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 70%;
+	margin-left: 14%;
+	margin-top: 3%;
+	font-size: 110%
+	
+}
+.kr{
+	text-indent: 30px;
+}
+
+.prime{
+	width: 64%;
+	height: 265px;
+	border: 1px solid #c9c9c9;
+	margin-left: 17%;
+	border-radius: 2%;
+	margin-top: 7%;
+}
+
+.st{
+	width: 27%;
+	height: 242px;
+	border-right: 1px solid rgb(131,76,48);
+	margin-top: 1%;
+	float: left;
+	margin-left: 6%;
+}
+.nd{
+	width: 27%;
+	height: 242px;
+	border-right: 1px solid rgb(131,76,48);
+	margin-top: 1%;
+	float: left;
+	margin-left: 5%;
+}
+.rd{
+	width: 27%;
+	height: 242px;
+	margin-top: 1%;
+
+	float: left;
+	margin-left: 5%;
+}
+
+.ex{
+	width: 62%;
+	height: 200px;
+	
+	margin-left: 12%;
+	margin-top: 4%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+.text{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-left: -10%;
+	margin-top: 3%;
+	font-size: 105%;
+}
+
+.req{
+	position: absolute;
+	margin-top: -5%;
+}

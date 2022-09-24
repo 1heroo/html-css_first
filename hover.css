@@ -1,0 +1,49 @@
+.inner-top1:hover{
+	border: 2px solid #bfbfbf;
+	background-color: #a2baf2;
+	border-radius: 4%;
+	color: #ebebeb;
+	transition: all 0.3s ease;
+}
+.inner-top2:hover{
+	border: 2px solid #bfbfbf;
+	background-color: #a2baf2;
+	border-radius: 4%;
+	color: #ebebeb;
+	transition: all 0.3s ease;
+}
+.inner-top3:hover{
+	border: 2px solid #bfbfbf;
+	background-color: #a2baf2;
+	border-radius: 4%;
+	color: #ebebeb;
+	transition: all 0.3s ease;
+}
+
+
+
+.FAQ:hover {
+	border: 1px solid;
+	background-color: #de7173;
+	transition: all 0.3s ease;
+}
+
+
+.search:hover .search-text{
+	width: 200px;
+	padding: 0 6px;
+}
+.search:hover .search-button{
+	background-color: #2b2b2b;
+}
+
+.sn:hover{
+	background-color: #262626;
+}
+.sp:hover{
+	background-color: #262626;
+}
+
+.inner-top1:hover .inner-top2{
+	opacity: 1%;
+}
